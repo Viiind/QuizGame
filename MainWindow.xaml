@@ -1,0 +1,116 @@
+﻿<Window x:Class="QuizApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowState="Maximized"
+        Width="1920"
+        Height="1080">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Command" Value="{Binding Path=buttonPressed}"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Background="#272537" Margin="0,0,0,0">
+        
+        <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="200"/>
+                <RowDefinition Height="250"/>
+                <RowDefinition Height="250"/>
+                <RowDefinition Height="250"/>
+            </Grid.RowDefinitions>
+
+        
+
+        <TextBlock Grid.Row="0" Text="Quiz Game" VerticalAlignment="Center"
+                       HorizontalAlignment="Center" FontSize="40" FontWeight="Bold" Foreground="White"/>
+
+            <TextBlock Grid.Row="1" Text="{Binding Path=QuestionNumberString}"
+                       VerticalAlignment="Center" HorizontalAlignment="Left"
+                       FontSize="40" FontWeight="Bold" Margin="100,0,0,0"
+                       Background="Transparent" Foreground="White"/>
+
+            <TextBlock Grid.Row="1" Text="{Binding Path=Question}"
+                       VerticalAlignment="Center" HorizontalAlignment="Center"
+                       FontSize="60" FontWeight="Bold" Foreground="White"/>
+
+            
+
+                <Button Grid.Row="2" Content="{Binding Path=Option1}"
+                        Background="{Binding Path=Button1Selected}"
+                        CommandParameter="Button1" HorizontalAlignment="Right" Margin="0,0,100,0"
+                        Width="800" Height="200"
+                        FontSize="40" Foreground="White" x:Name="Button1">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="50"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+                <Button Grid.Row="2" Content="{Binding Path=Option2}"
+                        Background="{Binding Path=Button2Selected}"
+                        CommandParameter="Button2" Width="800" Height="200" 
+                        HorizontalAlignment="Left" Margin="100,0,0,0"
+                        FontSize="40" Foreground="White" x:Name="Button2">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="50"/>
+                        </Style>
+                    </Button.Resources>
+
+                </Button>
+
+                <Button Grid.Row="3" Content="{Binding Path=Option3}" Background="{Binding Path=Button3Selected}"
+                        CommandParameter="Button3" Width="800" Height="200" 
+                        HorizontalAlignment="Left" Margin="100,0,0,0" 
+                        FontSize="40" Foreground="White" x:Name="Button3">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="50"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+        <Button   Grid.Row="3" Content="{Binding Path=Option4}"
+                  Background="{Binding Path=Button4Selected}"
+                  CommandParameter="Button4" Width="800" Height="200" 
+                  HorizontalAlignment="Right" Margin="0,0,100,0"
+                  FontSize="40" Foreground="White" x:Name="Button4">
+            <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="50"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+
+
+        <Button Grid.Row="11" Width="600" Height="200"  Content="Answer" FontSize="60" Background="#FFD29423"
+                    IsEnabled="{Binding Path=AnswerButtonEnabled}"
+                    CommandParameter="AnswerButton" Name="BTNanswer"
+                HorizontalAlignment="Left" Margin="250,0,0,0">
+            <Button.Resources>
+            <Style TargetType="{x:Type Border}">
+                <Setter Property="CornerRadius" Value="50"/>
+            </Style>
+            </Button.Resources>
+        </Button>
+
+        <Button Grid.Row="11" Width="600" Height="200"  Content="Další otázka" FontSize="60" Background="#FFD29423"
+            IsEnabled="{Binding Path=NextButtonEnabled}"
+            CommandParameter="NextButton" Name="BTNnext"
+                HorizontalAlignment="Right" Margin="0,0,250,0">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="50"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+
+
+    </Grid>
+</Window>

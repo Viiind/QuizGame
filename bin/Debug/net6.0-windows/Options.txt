@@ -1,0 +1,184 @@
+6.7.1314,6.7.1415,7.6.1415,9.7.1516
+0,380 metrů pod mořem,420metrů pod mořem,120 metrů nad mořem
+0.1,1,10,100
+1,2,3,5
+3.14159,3.15149,3.16159,3.14156
+4,5,6,7
+5,6,7,8
+6,7,8,9
+9,10,13,16
+10,11,12,13
+10,11,12,13
+10,11,12,13
+11,17,21,23
+12,14,16,17
+16,18,20,24
+8,16,31,46
+20,30,40,50
+25,29,31,33
+28,29,30,31
+28,30,32,34
+43,44,45,47
+63,68,71,73
+81,181,200,281
+90,180,210,360
+120,130,140,150
+195,206,224,235
+200,500,1000,2000
+1202,1212,1242,1262
+1623,1603,1613,1601
+1919,1920,1922,1925
+1941,1943,1945,1946
+1968,1974,1976,1979
+1971,1973,1975,1977
+1998,2003,2004,2007
+1999,2003,2005,2008
+2004,2005,2009,2011
+1.ledna 1989,1. ledna 1990,1. ledna 1991,1. ledna 1993
+20. března,21. března,23. března,21. dubna
+1 desetinu,1 setinu,1 tisícinu,Tvoří celek
+1-2 metry,2-3 metry,3-4 metry,4-5 metrů
+12-13. století,13-14. století,14-15. století,15-16. století
+13. století,14. století,15. stoeltí,16. století
+16. století,17. století,18. století,19. století
+1912-1918,1913-1918,1914-1918,1914-1920
+1938-1945,1939-1945,1939-1946,1940-1946
+1999,2001,2004,2007
+"2,52cm","2,48cm","2,5cm","2,56cm"
+24h,1 měsíc,1 rok,Země se netočí kolem své osy
+300,380,400,900
+5N,8N,10N,15N
+62 B.C.,54 B.C.,44 B.C.,36 B.C.
+8488m,8884m,8848m,8846m
+Adolf Hittler,Heinrich Himmler,Heinz Guderian,Johann Shmidt
+Albatros stěhovavý,Orel skalní,Káně velká,Sup bělohlavý
+Albus brumbál,Merlin,Godrik Nebelvír,Nicolas Flamel
+Alexandr Veliký,Julius Caesar,Marcus Antonius,Hernána Cortése
+Alfred Nobel,Thomas Alva Edison,Jára Cimrman,Enrico Fermi
+Alijaška,Texas,Florida,California
+Alpy,Pyreneje,Kordillery,Andy
+Amterdam,Brusel,Milán,Antverpy
+Andy,Himaláje,Pamír,Alpy
+Anglická říše,Římská republika,Mongolská říše,Osmanská říše
+Anglické,Italské,Španělské,Holandské
+Anglie a Francie,Franská říše a Vikingové,Osmanská říše a Rakousko-Uhersko,Římská republika a Kartágo
+Archeolog,Profesor,Lékař,Cestovatel
+Atikus,Julius,Spartakus,Gannicus
+Atos,Portos,Aramis,Dartaňan
+Benjamin Franklin,Thomas Alva Edison,Alexander Graham Bell,Johann Philipp Reis
+Bergen,Helsinky,Oslo,Göteborg
+Bludný Holanďan,Černá perla,Pomsta královny Anny,Zhouba oceánů
+Božena Němcová,Karel IV.,Tomáš Gariggue Masaryk,František Palacký
+Brašov,Budapešť,Kluž,Bukurešť
+Černé moře,Kaspické moře,Balaton,Michigan
+Česko,Německo,Rakousko,Švýcarsko
+Čína,Irán,Demokratická republika kongo,Kuba
+Čínský veslonos (Jeseter),Vyza Velká,Sumec bahení,Arapaima velká
+Dánsku,Holandsko,Je samostatný stát,USA
+Delfín,Gepard,Tygr,Antilopa
+Dmitrij Ivanovič Mendělejev,Isaac Newton,Alfred Nobel,Vladimir Ivanovič Vernadskij
+Dolní Věstonice,Horní věstonice,Morávka,Krtín
+Dvoukřídlé,Blanokřídlé,Ploštice,Stejnokřídlé
+Elbrus,Mont Blanc,K2,Matterhorn
+Eliška,Anička,Jana,Emma
+Epos o Gilgamešovi,Bible,Chamirapiho zákoník,Starý zákon
+Evropa,Austrálie,Jižní amerika,Antarktida
+Frodo,Sam,Pipin,Smíšek
+Grónsko,Austrálie,Madagaskar,Nová guinea
+Habsburkové,Lucemburkové,Šternberkové,Schwarzenbergové
+Hans Krása,Josef Kajetán Tyl,Antonín Dvořák,Leoš Janáček
+Helga Bifľomorová,Helena Bifľomorová,Brigita Bifľomorová,Hilda Bifľomorová
+Helsinky,Tempere,Turku,Göteborg
+Herold,Krasoň,Harold,Farquaad
+Hlavonožec,Plaz,Chobotnatci,Korýš
+Hrobky Faraonů,K uctívání bohů,K uctívání Králů,Pomáhali se orientovat v poušti
+Chufuova(Cheopsova) pyramida,Khafreova pyramida,Velká pyramida Cholula,Červená pyramida
+Istanbul,Abú Dhabí,Bahrajn,Dubaj
+Istanbul,Ankara,Sofie,Stalingrad
+Japonsko,Indonésie,Anglie,Norsko
+Jarda Jágr,David Patrňák,Tomáš Vokoun,Dominik Hašek
+Jerůzalém,Berlín,Moskva,Istanbul
+Jindřich,Václav,Karel,Jan
+Jurij Alexejevič Gagarin,Neil Armstrong,Buzz Aldrin,Michael Collins
+K2,Kilimandžáro,Matterhorn,Čangce
+Kaput Draconis,Fortuna major,Mimbulus mimbletonia,Čistá krev
+Karel II,Václav III.,Karel IV.,Jan Lucemburský
+Karel II.,Václav III.,Karel IV.,Karel V.
+Kněží,Král,Faraon,Císař
+Kodaň,Dublin,Rotterdam,Hamburg
+Kolašín,Nikšíč,Podgorica,Žabljak
+Konflikt mezi Římany a Kartágem,Konflikt mezi Římany a Řeky,Konflikt mezi Makedonií a Persií,Konflikt mezi Persií a Řeky
+Korálové moře,Filipínské moře,Jihočínské moře,Karibské moře
+Kostnatění,Rozpad tkání,Způsob rozmnožování jednobuněčných organismů,Přenos informace z buňky do buňky
+Kukel Bource Morušového,Vláken bavlny,Z umělých vláken,Z japonského lnu
+Kumamoto,Nagasaki,Osaka,Hirošima
+Labe,Volha,Rýn,Temže
+m,M,h,w
+Macocha,Hranická propast,Pravčická propast,Hodonínská propast
+Malvice,Peckovice,Bobule,Lusky
+Manchester,Glasgow,Dublin,Belfast
+MDCLIV,MCDLIV,DCMLIV,CDMLIV
+Monaco,Andora,Malta,Lucembursko
+Montreal,Ottawa,Québec,Toronto
+Mufasa,Zuzu,Scar,Mustafa
+Mufasa,Scar,Mustafa,Zuzu
+Nedobili,Vypálili město,Pomocí Trojského koně,Vyhladověli obyvatele
+Německo-Itálie-Japonsko,Německo-Itálie-Rusko,Německo-Itálie-Španělsko,
+Neuminix,Otis,Amonbofis,Caius Antivirus
+New Amsterdam,Neměl jiný název,Nový York,New London
+Nil,Congo,Niger,Zambezi
+Norsko,USA,Rusko,Čína
+Obilný snop a Okřídlené vlakové kolo,Obilný snop a Srp,Ryby,Krumpáč a kladivo
+Organizace Spojených Národů,Organizace Sjednocených národů,Ostravský Sněm Novinářů,Ozbrojený Svaz Norska
+Ostře sledované vlaky,Kolja,Lásky jedné plavovlásky,Obchod na korze
+Pacifický,Atlanský,Severní ledový,Indický
+Paní Norisová,Paní herisová,Černoočko,Uršula
+Paříž,Berlín,Praha,Londýn
+Optimus Prime,,,
+Péro fénixe,Žíně z jednorožce,Blána z dračího zdrce,Žíně testrála
+Petr Jákl,Miloš Forman,Jan Svěrák,Jiří Menzel
+Popravu Marie Antoinetty,Fracouzskou revoluci,Masakr hugenotů,Vyhození vládců z okna
+Poručík Dan,Buba,Wesley,Byl tam sám
+Prohlubeň Challenger,Prohlubeň Milwaukee,Příkop Diamantina,Litkeho hlubina
+Přísada Pepsi Coly,Střevní bakterie,Chemický prvek,Žaludeční enzym
+Richard Chrabromil,Rodrik Chrabromil,Godric Grifindor,Godrik Chrabromil
+Rotterdam,Amsterdam,Brusel,Hamburg
+Rowena Rawenclav,Brunhilda Bistrohlavová,Rowena Bistrohlavová,Rowena Havraspárová
+Rudé,Černé,Mrtvé,Africké
+Ruská Astrachaň,Sahara,Nevadská poušť,Atacama
+Ryba,Paryba,Savec,Plaz
+Řeky,Hory,Hvězdy,Bohy z egyptských pověstí
+Římský otrok u dvora,Římský občan bez šlechtického původu,Otrok na Římských lodích,Chudý obyvatel říma (bezdomovec)
+s,v,t,R
+Seina,Temže,Labe,Dunaj
+Sekvoj vždyzelená,Smrk vysoký,Sekvoj obrovská,Borovice americká
+Senát,Caesar,Nikdy se nestal republikou,Král
+Ser Chán (šerchán),Balú,Ká,Akéla
+Skynet,Starlink,Nekron,Spacelink
+Slon Africký,Vyza Velká,Velryba Grónská,Plejtvák obrovský
+Smlouva o ukončení 1. sv. války,Smlouva o spojenectví mezi Německem a SSSR,Smlouva o vytvoření osy zla,Pakt uzavřený před atentátem na Heinricha Himmlera
+Sněženka,Petrklíč,Sedmikráska,Kopretina
+Soluň,Larisa,Athény,Sparta
+Split,Záhřeb,Zadar,Sarajevo
+Sputnik 1,Apollo 10,Apollo 11,Apollo 13
+Starý a Nový zákon,Každý svatý má svoji část,Nedělí se,Židovskou a Křesťanskou část
+Středozemního,Kaspického,Černého,Severního
+Sydney,Canberra,Melbourne,New Walles
+T-800,T-600,T-1000,T-3000
+Titanic,Avatar 1,Avengers: Infinity war,Pulp Fiction
+Tommy Gun,Clubber Lang,Ivan Drago,Apollo Creed
+USA,Indie,Čína,Indonésie
+USA,Kanada,Čína,Brazílie
+Usazené,Vyvřelé,Přeměněné,Oxidy
+Už mě nic nenapadlo,Aby se srovnaly dny v měsíci,Nikdo neví,Den netrvá 24 hodin
+v,D,m,S
+V játrech,V ledvinách,V míše,V kostní dřeni
+Vilnus,Riga,Tallin,Minsk
+Vltava,Labe,Morava,Ohře
+Výzkum jaderných bomb,Postavit první jadernou ponorku,Vyvynutí biologických zbraní,Návrh budovy Opery na Manhattonu
+Washington D.C.,Los Angeles,San Francisco,New York
+Wellington,Auckland,Christchurch,Port Moresby
+Z keře Koka,Ze stromu Koka,Vzniká při výrobě léků,Z makovic
+"Zbytečné, proto si ho lidé nechávají odstranit",Obnovuje střevní mikroflóru,Zamezuje ucpávání střev,je to pozůstatek po pupeční šňůře
+Zemětřesení,Tsunami,Sopka,Mor
+Žralok,Hroch,Komár,Had
